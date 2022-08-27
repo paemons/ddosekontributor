@@ -265,3 +265,9 @@ drag {
     -o-user-drag: none;
     -user-drag: none
 }
+
+.verify-img {
+    width: 25px;
+    height: 25px;
+    margin-bottom: -3px;
+}
